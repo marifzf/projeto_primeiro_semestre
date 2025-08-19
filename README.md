@@ -1,47 +1,61 @@
-🛒 Mercearia da Bere
-🎯 Objetivo
+# 🛒 Mercearia da Bere  
 
-Este projeto foi desenvolvido como exercício acadêmico em C para praticar estruturas de repetição, condicionais, funções de entrada/saída e manipulação de variáveis.
-O sistema simula uma mercearia simples, permitindo realizar vendas, calcular descontos, processar pagamentos e exibir o fechamento do caixa.
+<div align="center">
 
-🚀 Funcionalidades
+💻 Projeto acadêmico em **C**  
+📚 Disciplina: Programação Estruturada  
+🎯 Simulação de uma mercearia com vendas, pagamentos e fechamento de caixa  
 
-Menu principal com 5 opções:
+</div>
 
-Venda de material de limpeza
+---
 
-Venda de alimentos
+## 🚀 Funcionalidades  
 
-Venda de padaria
+✅ Menu principal interativo  
+✅ Venda de **materiais de limpeza, alimentos e padaria**  
+✅ Sistema de **pagamento em dinheiro ou cartão**  
+✅ Descontos progressivos para pagamentos em dinheiro  
+✅ Controle de **troco e valores devidos**  
+✅ Relatório final com **total de vendas e fechamento de caixa**  
 
-Pagamento (dinheiro/cartão com descontos e validação)
+---
 
-Sair (com total de vendas e fechamento do caixa)
+## 🛠️ Tecnologias Utilizadas  
 
-Cálculo automático do valor total da compra.
+<div align="center">
 
-Aplicação de descontos progressivos para pagamentos em dinheiro.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 
-Controle de troco e valores devidos.
+</div>
 
-Contabilização do total de vendas e fechamento do caixa.
+---
 
-⚙️ Tecnologias
+## 📂 Estrutura do Projeto  
 
-Linguagem C
+📦 mercearia-bere  
+ ┣ 📜 bere.c        # Código-fonte principal  
+ ┣ 📜 bere.exe      # Executável para Windows  
+ ┗ 📜 README.md     # Documentação do projeto  
 
-Biblioteca padrão (stdio.h, stdlib.h)
+---
 
-📂 Estrutura do Projeto
-📦 mercearia-bere
- ┣ 📜 bere.c        # Código-fonte principal
- ┣ 📜 bere.exe      # Executável para Windows
- ┗ 📜 README.md     # Documentação do projeto
 
-📸 Demonstração
+## 📸 Demonstração  
 
-<img width="624" height="283" alt="image" src="https://github.com/user-attachments/assets/7025540a-e6fc-44a2-9d6e-909a32e35aeb" />
+<p align="center">
+<img width="624" height="283" alt="image" src="https://github.com/user-attachments/assets/ac4e620b-e177-472e-8a39-8e62eb7a14fe" />
+</p>
 
-👩‍💻 Autor
+---
 
-Seu Nome – Estudante de Engenharia de Software
+## 👩‍💻 Autor  
+
+<div align="center">
+
+Feito por **Mariana Fonseca**  
+🎓 Estudante de **Engenharia de Software**
+
+</div>
